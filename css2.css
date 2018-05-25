@@ -1,0 +1,18 @@
+.Circle {
+  width: 100px;
+	height: 100px;
+	background: red;
+	border-radius: 50%;
+}
+
+.Square {
+  width: 100px;
+	height: 100px;
+	background: red;
+}
+
+.Rectangle {
+  width: 200px;
+	height: 100px;
+	background: red;
+}
